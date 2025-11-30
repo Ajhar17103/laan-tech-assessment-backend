@@ -173,7 +173,6 @@ This project provides APIs to manage products with images efficiently. It allows
 
 **Md. Azharul Islam**  
 Software Engineer (Full-Stack)  
-Email: [contact.ajharislam@gmail.com](mailto:contact.ajharislam@gmail.com)  
 Phone: +8801787223642
 
 
