@@ -20,15 +20,22 @@ This project provides APIs to manage products with images efficiently. It allows
 - Single product upload with images
 - Bulk product upload
 - Product metadata stored as JSON (`product.json`)
+- Product metadata stored as JSON (`product.json`)
 - Images accessible via HTTP URL
 - CRUD operations for products
+- CRUD operations for products
 - Pagination & sorting support
+- Swagger/OpenAPI integration
 - Swagger/OpenAPI integration
 
 ---
 
 ## Tech Stack
 
+- **Backend:** Java, Spring Boot
+- **Database:** JPA PostgreSQL
+- **File Storage:** Local filesystem
+- **Libraries:** Spring Web, Lombok, Jackson, Springdoc OpenAPI
 - **Backend:** Java, Spring Boot
 - **Database:** JPA PostgreSQL
 - **File Storage:** Local filesystem
@@ -150,12 +157,18 @@ This project provides APIs to manage products with images efficiently. It allows
 
 ## Product Upload Folder Structure
 ![img.png](img.png)
+## Product Upload Folder Structure
+![img.png](img.png)
 
+### Product JSON
+![img_1.png](img_1.png)
 ### Product JSON
 ![img_1.png](img_1.png)
 
 ### Swagger
+### Swagger
 
+![img_2.png](img_2.png)
 ![img_2.png](img_2.png)
 
 ## Future Scope
