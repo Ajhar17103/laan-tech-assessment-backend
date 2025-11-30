@@ -19,15 +19,20 @@ This project provides APIs to manage products with images efficiently. It allows
 
 - Single product upload with images
 - Bulk product upload
+- Product metadata stored as JSON (`product.json`)
 - Images accessible via HTTP URL
+- CRUD operations for products
 - Pagination & sorting support
+- Swagger/OpenAPI integration
 
 ---
 
 ## Tech Stack
 
-- **frontend:** Next.js, TypeScript.
-- **Libraries:** react-bootstrap, react-hook-form, react-toastify, sweetalert2, react-redux
+- **Backend:** Java, Spring Boot
+- **Database:** JPA PostgreSQL
+- **File Storage:** Local filesystem
+- **Libraries:** Spring Web, Lombok, Jackson, Springdoc OpenAPI
 
 ---
 
@@ -143,38 +148,30 @@ This project provides APIs to manage products with images efficiently. It allows
 }
 ```
 
-## Product Upload
- 
+## Product Upload Folder Structure
+![img.png](img.png)
 
-#### Single Product Upload
+### Product JSON
+![img_1.png](img_1.png)
 
-![alt text](image.png)
-#### Bulk Product Upload
-![img_4.png](img_4.png)
+### Swagger
 
-### Product View
-
-![img_5.png](img_5.png)
-
-### Product List
-
-![img_6.png](img_6.png)
-
+![img_2.png](img_2.png)
 
 ## Future Scope
 
 - Add user authentication & authorization
 - Add product category support
-- Add Dashboard
+- Cloud storage support (S3/GCP)
+- Image compression and optimization
+- **Bulk upload enhancements:**
+    - Implement **thread-based processing** for concurrent uploads
+    - Use **batch-wise processing** to handle large product uploads efficiently
+    - Generate success/failure reports for each batch
+    - Reduce server memory usage and improve performance for massive uploads  
 
----
-
-## Authors and Acknowledgment
+#### Authors and Acknowledgment
 
 **Md. Azharul Islam**  
-Software Engineer (Full-Stack)  
+Software Engineer (Full-Stack)
 Phone: +8801787223642
-
-
-
-
