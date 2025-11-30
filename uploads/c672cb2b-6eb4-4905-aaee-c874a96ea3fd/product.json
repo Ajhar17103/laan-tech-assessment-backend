@@ -1,0 +1,44 @@
+{
+  "id" : "1ab9e927-c915-4240-8eaf-d934576d7be7",
+  "name" : "Bulk Product 2",
+  "description" : "Bulk Product 2",
+  "price" : 850.0,
+  "stock" : null,
+  "files" : [ {
+    "id" : "3dccb0fd-814d-4e9b-b3cf-ce76c198bc54",
+    "fileName" : "Screenshot from 2025-10-27 12-39-06.png",
+    "originalFileName" : "Screenshot from 2025-10-27 12-39-06.png",
+    "size" : 538076,
+    "filePath" : "/uploads/c672cb2b-6eb4-4905-aaee-c874a96ea3fd/Screenshot from 2025-10-27 12-39-06.png"
+  }, {
+    "id" : "5c0860a7-cc92-4f7a-be2e-4b6092c970d5",
+    "fileName" : "Screenshot from 2025-08-17 09-35-19.png",
+    "originalFileName" : "Screenshot from 2025-08-17 09-35-19.png",
+    "size" : 696092,
+    "filePath" : "/uploads/c672cb2b-6eb4-4905-aaee-c874a96ea3fd/Screenshot from 2025-08-17 09-35-19.png"
+  }, {
+    "id" : "611a919a-1742-4922-99fe-41498e8b8c6a",
+    "fileName" : "2025-08-07_12-14.png",
+    "originalFileName" : "2025-08-07_12-14.png",
+    "size" : 661254,
+    "filePath" : "/uploads/c672cb2b-6eb4-4905-aaee-c874a96ea3fd/2025-08-07_12-14.png"
+  }, {
+    "id" : "18c143cd-59d3-4281-b218-64471ece42b1",
+    "fileName" : "Screenshot from 2025-07-29 10-57-56.png",
+    "originalFileName" : "Screenshot from 2025-07-29 10-57-56.png",
+    "size" : 57557,
+    "filePath" : "/uploads/c672cb2b-6eb4-4905-aaee-c874a96ea3fd/Screenshot from 2025-07-29 10-57-56.png"
+  }, {
+    "id" : "a2653e5e-2e8e-4bf1-bb92-03d4b5e28d39",
+    "fileName" : "2025-07-27_15-57.png",
+    "originalFileName" : "2025-07-27_15-57.png",
+    "size" : 53332,
+    "filePath" : "/uploads/c672cb2b-6eb4-4905-aaee-c874a96ea3fd/2025-07-27_15-57.png"
+  }, {
+    "id" : "7b58b527-4a90-4c5f-a603-69143ef31636",
+    "fileName" : "Screenshot from 2025-07-27 15-46-58.png",
+    "originalFileName" : "Screenshot from 2025-07-27 15-46-58.png",
+    "size" : 438136,
+    "filePath" : "/uploads/c672cb2b-6eb4-4905-aaee-c874a96ea3fd/Screenshot from 2025-07-27 15-46-58.png"
+  } ]
+}

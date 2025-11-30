@@ -1,0 +1,39 @@
+services:
+  postgres:
+    image: postgres:15
+    container_name: bp-postgres-container
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: bp
+    ports:
+      - "8433:5432"
+    networks:
+      - bp-network
+    volumes:
+      - postgres-data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  pgadmin:
+    image: dpage/pgadmin4:latest
+    container_name: bp-pgadmin-container
+    environment:
+      PGADMIN_DEFAULT_EMAIL: bulk.product@bp.com
+      PGADMIN_DEFAULT_PASSWORD: bp@123
+    ports:
+      - "5050:80"
+    networks:
+      - bp-network
+    depends_on:
+      postgres:
+        condition: service_healthy
+
+networks:
+  bp-network:
+
+volumes:
+  postgres-data:

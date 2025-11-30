@@ -1,0 +1,26 @@
+{
+  "id" : "3ff3d039-bdd0-4eaf-b9d7-4f5fe5b29054",
+  "name" : "Single Product",
+  "description" : "Description",
+  "price" : 449.0,
+  "stock" : 100,
+  "files" : [ {
+    "id" : "d0cb2cf3-8b46-435c-903c-52525b426f01",
+    "fileName" : "Screenshot from 2025-10-27 12-39-06.png",
+    "originalFileName" : "Screenshot from 2025-10-27 12-39-06.png",
+    "size" : 538076,
+    "filePath" : "/uploads/fdda31af-1fe8-4c45-888a-1d974e0f5b89/Screenshot from 2025-10-27 12-39-06.png"
+  }, {
+    "id" : "15b754ee-0231-4242-b179-edb64c89ffe3",
+    "fileName" : "Screenshot from 2025-08-17 09-35-19.png",
+    "originalFileName" : "Screenshot from 2025-08-17 09-35-19.png",
+    "size" : 696092,
+    "filePath" : "/uploads/fdda31af-1fe8-4c45-888a-1d974e0f5b89/Screenshot from 2025-08-17 09-35-19.png"
+  }, {
+    "id" : "7b663b12-7464-41f3-839b-757f53608a31",
+    "fileName" : "2025-08-07_12-14.png",
+    "originalFileName" : "2025-08-07_12-14.png",
+    "size" : 661254,
+    "filePath" : "/uploads/fdda31af-1fe8-4c45-888a-1d974e0f5b89/2025-08-07_12-14.png"
+  } ]
+}

@@ -1,0 +1,44 @@
+{
+  "id" : "cfe44637-8366-422e-8691-2d7031c7c78c",
+  "name" : "Bulk Product 1",
+  "description" : "Bulk Product 1",
+  "price" : 450.0,
+  "stock" : null,
+  "files" : [ {
+    "id" : "cdba26d7-1325-4cac-932b-60457552038f",
+    "fileName" : "Screenshot from 2025-10-27 12-39-06.png",
+    "originalFileName" : "Screenshot from 2025-10-27 12-39-06.png",
+    "size" : 538076,
+    "filePath" : "/uploads/395ee8a3-834b-401a-b719-1ec98308cf22/Screenshot from 2025-10-27 12-39-06.png"
+  }, {
+    "id" : "93b06f44-0f78-4e5c-ab07-2222b3c7711d",
+    "fileName" : "Screenshot from 2025-08-17 09-35-19.png",
+    "originalFileName" : "Screenshot from 2025-08-17 09-35-19.png",
+    "size" : 696092,
+    "filePath" : "/uploads/395ee8a3-834b-401a-b719-1ec98308cf22/Screenshot from 2025-08-17 09-35-19.png"
+  }, {
+    "id" : "c8deb48c-1bb6-4082-a29c-63caf1b81bcb",
+    "fileName" : "Screenshot from 2025-07-29 10-57-56.png",
+    "originalFileName" : "Screenshot from 2025-07-29 10-57-56.png",
+    "size" : 57557,
+    "filePath" : "/uploads/395ee8a3-834b-401a-b719-1ec98308cf22/Screenshot from 2025-07-29 10-57-56.png"
+  }, {
+    "id" : "3739d00c-4584-4126-8ba7-4ea8386783ce",
+    "fileName" : "Screenshot from 2025-07-24 15-37-50.png",
+    "originalFileName" : "Screenshot from 2025-07-24 15-37-50.png",
+    "size" : 41150,
+    "filePath" : "/uploads/395ee8a3-834b-401a-b719-1ec98308cf22/Screenshot from 2025-07-24 15-37-50.png"
+  }, {
+    "id" : "e4706de2-b75b-4d8f-a7d0-225fce1082c5",
+    "fileName" : "Screenshot from 2025-07-21 11-55-30.png",
+    "originalFileName" : "Screenshot from 2025-07-21 11-55-30.png",
+    "size" : 51056,
+    "filePath" : "/uploads/395ee8a3-834b-401a-b719-1ec98308cf22/Screenshot from 2025-07-21 11-55-30.png"
+  }, {
+    "id" : "9d39194e-fd34-4d7e-91e1-9393e1636046",
+    "fileName" : "Screenshot from 2025-07-20 12-45-34.png",
+    "originalFileName" : "Screenshot from 2025-07-20 12-45-34.png",
+    "size" : 60551,
+    "filePath" : "/uploads/395ee8a3-834b-401a-b719-1ec98308cf22/Screenshot from 2025-07-20 12-45-34.png"
+  } ]
+}
