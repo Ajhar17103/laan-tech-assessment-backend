@@ -1,8 +1,6 @@
 package com.laan.tech.assessment.modules.product.param;
 
-
 import lombok.*;
-
 import java.util.List;
 
 @Getter

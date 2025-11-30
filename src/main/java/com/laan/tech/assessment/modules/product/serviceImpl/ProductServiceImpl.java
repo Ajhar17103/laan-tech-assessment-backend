@@ -2,7 +2,6 @@ package com.laan.tech.assessment.modules.product.serviceImpl;
 
 import com.laan.tech.assessment.modules.attachment.dto.AttachmentDto;
 import com.laan.tech.assessment.modules.attachment.entity.Attachment;
-import com.laan.tech.assessment.modules.attachment.repo.AttachmentRepository;
 import com.laan.tech.assessment.modules.attachment.service.AttachmentService;
 import com.laan.tech.assessment.modules.product.dto.ProductDto;
 import com.laan.tech.assessment.modules.product.entity.Product;
@@ -34,7 +33,6 @@ public class ProductServiceImpl implements ProductService {
     private final ProductRepository productRepository;
     private final ProductMapper productMapper;
     private final AttachmentService attachmentService;
-    private final AttachmentRepository attachmentRepository;
 
     @Override
     @Transactional

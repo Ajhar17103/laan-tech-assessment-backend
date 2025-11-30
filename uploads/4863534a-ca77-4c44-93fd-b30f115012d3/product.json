@@ -1,0 +1,32 @@
+{
+  "id" : "5e18cc86-3d24-4847-906f-45acfa8df4b9",
+  "name" : "Jeans Pant",
+  "description" : "Jeans Pant Descriptions",
+  "price" : 1250.0,
+  "stock" : null,
+  "files" : [ {
+    "id" : "7d4ddd40-52eb-47a4-bb1c-85fe5b92f95c",
+    "fileName" : "enum-2.jpg",
+    "originalFileName" : "enum-2.jpg",
+    "size" : 88611,
+    "filePath" : "/uploads/4863534a-ca77-4c44-93fd-b30f115012d3/enum-2.jpg"
+  }, {
+    "id" : "4782fb33-4c99-4fd8-a218-cbeffa6fe3ae",
+    "fileName" : "enum-1.jpg",
+    "originalFileName" : "enum-1.jpg",
+    "size" : 103640,
+    "filePath" : "/uploads/4863534a-ca77-4c44-93fd-b30f115012d3/enum-1.jpg"
+  }, {
+    "id" : "9e26e53f-d05d-4838-a473-e12f7648b17e",
+    "fileName" : "param.png",
+    "originalFileName" : "param.png",
+    "size" : 59663,
+    "filePath" : "/uploads/4863534a-ca77-4c44-93fd-b30f115012d3/param.png"
+  }, {
+    "id" : "bb7787b2-0c83-473d-a08c-6989f6d9ef16",
+    "fileName" : "validator.png",
+    "originalFileName" : "validator.png",
+    "size" : 89900,
+    "filePath" : "/uploads/4863534a-ca77-4c44-93fd-b30f115012d3/validator.png"
+  } ]
+}

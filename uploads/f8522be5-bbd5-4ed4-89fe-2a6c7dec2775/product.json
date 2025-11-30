@@ -1,0 +1,32 @@
+{
+  "id" : "2173b07f-4724-4f4d-8732-05354218b2eb",
+  "name" : "Denim Pant",
+  "description" : "Denim Pant Descriptions",
+  "price" : 1670.0,
+  "stock" : null,
+  "files" : [ {
+    "id" : "0de75e7e-44cb-4146-b67c-a5800b07c04f",
+    "fileName" : "Screenshot from 2025-07-24 15-37-50.png",
+    "originalFileName" : "Screenshot from 2025-07-24 15-37-50.png",
+    "size" : 41150,
+    "filePath" : "/uploads/f8522be5-bbd5-4ed4-89fe-2a6c7dec2775/Screenshot from 2025-07-24 15-37-50.png"
+  }, {
+    "id" : "8c084f24-e6f6-4382-97f9-3611b930123d",
+    "fileName" : "Screenshot from 2025-07-23 16-34-56.png",
+    "originalFileName" : "Screenshot from 2025-07-23 16-34-56.png",
+    "size" : 73383,
+    "filePath" : "/uploads/f8522be5-bbd5-4ed4-89fe-2a6c7dec2775/Screenshot from 2025-07-23 16-34-56.png"
+  }, {
+    "id" : "212b3316-78fb-4198-ba7a-4c82b4060658",
+    "fileName" : "Screenshot from 2025-07-22 18-30-41.png",
+    "originalFileName" : "Screenshot from 2025-07-22 18-30-41.png",
+    "size" : 579504,
+    "filePath" : "/uploads/f8522be5-bbd5-4ed4-89fe-2a6c7dec2775/Screenshot from 2025-07-22 18-30-41.png"
+  }, {
+    "id" : "d6be0d04-480a-427c-ae5a-026133d828af",
+    "fileName" : "Screenshot from 2025-07-21 11-55-30.png",
+    "originalFileName" : "Screenshot from 2025-07-21 11-55-30.png",
+    "size" : 51056,
+    "filePath" : "/uploads/f8522be5-bbd5-4ed4-89fe-2a6c7dec2775/Screenshot from 2025-07-21 11-55-30.png"
+  } ]
+}

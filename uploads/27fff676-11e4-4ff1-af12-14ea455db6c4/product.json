@@ -1,0 +1,32 @@
+{
+  "id" : "94e9dcab-a472-4227-a819-5d3b5c81477a",
+  "name" : "Shirt ",
+  "description" : "Shirt Descriptions",
+  "price" : 450.0,
+  "stock" : 100,
+  "files" : [ {
+    "id" : "0fee8585-967a-4f84-86d8-be780bb2213e",
+    "fileName" : "Screenshot from 2025-08-17 09-35-19.png",
+    "originalFileName" : "Screenshot from 2025-08-17 09-35-19.png",
+    "size" : 696092,
+    "filePath" : "/uploads/27fff676-11e4-4ff1-af12-14ea455db6c4/Screenshot from 2025-08-17 09-35-19.png"
+  }, {
+    "id" : "064a1d0b-14a9-45f2-bf59-28127ac00fe8",
+    "fileName" : "2025-08-07_12-14.png",
+    "originalFileName" : "2025-08-07_12-14.png",
+    "size" : 661254,
+    "filePath" : "/uploads/27fff676-11e4-4ff1-af12-14ea455db6c4/2025-08-07_12-14.png"
+  }, {
+    "id" : "11ebb9c2-d13b-430d-bb4f-bf88e00adc30",
+    "fileName" : "Screenshot from 2025-07-29 10-57-56.png",
+    "originalFileName" : "Screenshot from 2025-07-29 10-57-56.png",
+    "size" : 57557,
+    "filePath" : "/uploads/27fff676-11e4-4ff1-af12-14ea455db6c4/Screenshot from 2025-07-29 10-57-56.png"
+  }, {
+    "id" : "ac38343b-6fe3-400e-bfe2-d072831938cb",
+    "fileName" : "2025-07-27_15-57.png",
+    "originalFileName" : "2025-07-27_15-57.png",
+    "size" : 53332,
+    "filePath" : "/uploads/27fff676-11e4-4ff1-af12-14ea455db6c4/2025-07-27_15-57.png"
+  } ]
+}
