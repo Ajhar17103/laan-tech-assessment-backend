@@ -172,6 +172,5 @@ This project provides APIs to manage products with images efficiently. It allows
 #### Authors and Acknowledgment
 
 **Md. Azharul Islam**  
-Software Engineer (Full-Stack)  
-Email: [contact.ajharislam@gmail.com](mailto:contact.ajharislam@gmail.com)  
+Software Engineer (Full-Stack) 
 Phone: +8801787223642
